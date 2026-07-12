@@ -1,9 +1,5 @@
 <div align="center">
 
-# Ben Sokimi
-
-**Defensive Security Analyst · Blue-Team Tooling Developer · Australia**
-
 [![HTB CDSA](https://img.shields.io/badge/HTB-Certified_Defensive_Security_Analyst-9FEF00?logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst)
 [![Rust](https://img.shields.io/badge/Rust-B7410E?logo=rust&logoColor=white)](#-intelscribe)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#-skyhawk)
