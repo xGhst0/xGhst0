@@ -104,9 +104,6 @@ SKYHAWK plus the Node runtime into a checksum-verified tarball for machines that
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xGhst0&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGhst0&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165">
-
 📫 **benjamin.sokimi@gmail.com**
 
 </div>
