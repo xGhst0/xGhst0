@@ -9,7 +9,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#-skyhawk)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-C8102E)](https://attack.mitre.org/)
 
-*I work in security operations and build the tools I wish every SOC had —*
 *offline-first, deterministic, and built for air-gapped environments.*
 
 </div>
