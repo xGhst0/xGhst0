@@ -1,4 +1,4 @@
-Defensive security analyst in Australia (HTB CDSA). My day job is mostly Splunk,
+Defensive security analyst in Australia. My day job is mostly Splunk,
 Sysmon and incident write-ups. The write-ups are the part nobody enjoys, so I've
 been building tools that do the boring half for me.
 
